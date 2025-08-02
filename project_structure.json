@@ -1,0 +1,126 @@
+{
+    "Academic_Research_Assistant_RAG": {
+        "LICENSE": "file",
+        "requirements.txt": "file",
+        "test.py": "file",
+        "README.md": "file",
+        ".gitignore": "file",
+        ".env": "file",
+        ".git": {
+            "config": "file",
+            "objects": {
+                "05": {
+                    "dd4e6862563954778defd5aff7b296655b975b": "file"
+                },
+                "bb": {
+                    "d2aef39da43a53691c04f93d7c48199ecbd842": "file"
+                },
+                "d8": {
+                    "dd3477325f6d6cf1d8fa27f89fa8e33d0a8af7": "file",
+                    "9e790f4ded3c7b2db974610149cc6f11275681": "file"
+                },
+                "pack": {
+                    "pack-e252b69f9813e6dcea2e819b48c3cd6e29299b49.idx": "file",
+                    "pack-e252b69f9813e6dcea2e819b48c3cd6e29299b49.pack": "file"
+                },
+                "info": {},
+                "d4": {
+                    "50a63bb508e7d2bee1114a11c73aa8e140ab15": "file"
+                },
+                "aa": {
+                    "a4b26eecfc453d0f78560c6cad2540de78a36e": "file"
+                },
+                "a6": {
+                    "18fa976d883c058cf24c4f51344d818340cce6": "file"
+                },
+                "e6": {
+                    "9de29bb2d1d6434b8b29ae775ad8c2e48c5391": "file"
+                },
+                "8b": {
+                    "f80648106ae6151cfc3b344e90b3b560583893": "file"
+                }
+            },
+            "HEAD": "file",
+            "info": {
+                "exclude": "file"
+            },
+            "logs": {
+                "HEAD": "file",
+                "refs": {
+                    "heads": {
+                        "main": "file"
+                    },
+                    "remotes": {
+                        "origin": {
+                            "HEAD": "file",
+                            "main": "file"
+                        }
+                    }
+                }
+            },
+            "description": "file",
+            "hooks": {
+                "commit-msg.sample": "file",
+                "pre-rebase.sample": "file",
+                "pre-commit.sample": "file",
+                "applypatch-msg.sample": "file",
+                "fsmonitor-watchman.sample": "file",
+                "pre-receive.sample": "file",
+                "prepare-commit-msg.sample": "file",
+                "post-update.sample": "file",
+                "pre-merge-commit.sample": "file",
+                "pre-applypatch.sample": "file",
+                "pre-push.sample": "file",
+                "update.sample": "file",
+                "push-to-checkout.sample": "file"
+            },
+            "refs": {
+                "heads": {
+                    "main": "file"
+                },
+                "tags": {},
+                "remotes": {
+                    "origin": {
+                        "HEAD": "file",
+                        "main": "file"
+                    }
+                }
+            },
+            "index": "file",
+            "packed-refs": "file",
+            "COMMIT_EDITMSG": "file"
+        },
+        "data": {
+            "processed": {
+                "vector_db": {}
+            }
+        },
+        "notebooks": {
+            "evaluation.ipynb": "file",
+            "exploration.ipynb": "file"
+        },
+        "src": {
+            "__init__.py": "file",
+            "utils": {
+                "file_handler.py": "file",
+                "text_processing.py": "file",
+                "__init__.py": "file"
+            },
+            "models": {
+                "paper.py": "file",
+                "__init__.py": "file",
+                "chunk.py": "file"
+            },
+            "main.py": "file",
+            "services": {
+                "citation_extractor.py": "file",
+                "vector_store.py": "file",
+                "chunking_service.py": "file",
+                "__init__.py": "file",
+                "embedding_service.py": "file",
+                "pdf_processor.py": "file",
+                "search_service.py": "file"
+            }
+        }
+    }
+}
